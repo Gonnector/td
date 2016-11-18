@@ -1,2 +1,2 @@
-# Treasure Data
+#Treasure Data
 Public codes about using and learning Treasure Data
